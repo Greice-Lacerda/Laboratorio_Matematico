@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./scripts_python/FUNCOES",
+        "./scripts_python"
+    ]
+}
