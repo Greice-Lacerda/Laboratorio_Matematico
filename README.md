@@ -35,3 +35,9 @@ Um automatizador de **médias aritméticas**.
 5. Clique no botão azul **Sync Changes** (Sincronizar) que apareceu no lugar do Publish.
 
 **Pronto! Agora, ao abrir o seu repositório no navegador, você verá que o GitHub exibe esse texto formatado logo abaixo dos arquivos. Quer que eu te ensine a colocar um "selo" ou um emoji personalizado para deixar o título ainda mais profissional?**
+
+---
+
+### **Coordenação e Desenvolvimento**
+Professora Doutora Greice Keli Silva Lacerda
+
